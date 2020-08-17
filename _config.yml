@@ -1,7 +1,7 @@
 title: Jaime David Llamuca Figueroa 
 description: La creacion de mi primer blog 
 author: jaime llamuca 
-avatar: jai.png
+avatar: /jai.jpg
 email: jaimellamuca30@hotmail.com
 
 plugins:
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: llamucajaime
   card: summary
-logo: jai.png
+logo: /jai.jpg
 social:
   name: porta 
   links:
