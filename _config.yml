@@ -29,8 +29,8 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:Llamucajaime
-  username: jaimejajajaja
+twitter:
+  username: llamucajaime
   card: summary
 logo: logo.png
 social:
